@@ -11,4 +11,4 @@ Download the installation package "setup_GUI_V1.0.exe"，double click to install
 * Initial password “123456”
 * STEP 1 Enter the data to be analyzed
 * STEP 2 Select analysis function and run the program
-* STEP 3 View analysis results through the results windowre
+* STEP 3 View analysis results through the results window
